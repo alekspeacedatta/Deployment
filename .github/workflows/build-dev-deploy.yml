@@ -2,7 +2,7 @@ name: Build and Deploy Vite React TypeScript App
 
 on:
   push:
-    branches: [ develope ]
+    branches: [ develop ]
 
 jobs:
   build-and-deploy:
