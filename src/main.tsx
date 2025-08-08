@@ -5,12 +5,10 @@ import './index.css'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <>
-    
       <div>
         <h1>Project of </h1>
         <p>Deployment</p>
       </div>
-    
     </>
   </StrictMode>,
 )
