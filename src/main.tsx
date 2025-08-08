@@ -6,8 +6,11 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <>
       <div>
-        <h1>Project of </h1>
-        <p>Deployment</p>
+        <section>
+          <h1>Project of </h1>
+          <p>Deployment</p>
+        </section>
+        <h1>This is Registration Page</h1>
       </div>
     </>
   </StrictMode>,
